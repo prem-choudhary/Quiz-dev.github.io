@@ -100,5 +100,12 @@ const questions = [
     answer: "Goa",
     id: 15,
   },
+  {
+    question:
+      " What will be the output of the following code snippet?  print(typeof(NaN));", 
+    options: ["Object", "Number", "String", "Error"],
+    answer: "Number",
+    id: 16,
+  },
 ];
 export default questions;
