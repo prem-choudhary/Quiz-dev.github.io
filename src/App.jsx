@@ -1,6 +1,6 @@
 
 import  { useState, useEffect } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 // import "bootstrap/dist/css/bootstrop.min.css"
 import qBank from "./components/QuestionBank";
 import Questions from './components/Questions';
